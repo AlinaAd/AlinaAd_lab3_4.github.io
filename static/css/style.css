@@ -1,0 +1,13 @@
+.strike_out{
+    text-decoration: line-through !important;
+}
+
+.header-block {
+    display: inline-block;
+    width: 86%;
+}
+
+.button_mar {
+    margin-right: 15px;
+    float: right;
+}
